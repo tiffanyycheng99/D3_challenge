@@ -14,6 +14,8 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 The  visualization, which is hosted on index.html, is a scatter plot between two dynamically-selected variables of different health risks and demographics. Labels on both axes may be selected to decide which data to display, with the plot animating the transitions of the points upon selection. Hovering over the different data points will reveal a tool-tip element that will provide exact information of the specific State and its' health risk and demographic statitstic. Additionally, a brief analysis highlights the key trends observed from the visualization and possible explanations that can be further studied.
 
+Please navigate to [website](https://tiffanyycheng99.github.io/D3_challenge/) to use and interact with visualization.
+
 
 ## Files
 
@@ -22,4 +24,9 @@ The  visualization, which is hosted on index.html, is a scatter plot between two
   * css subfolder with style.css and d3.style.css
   * data subfolder with data.csv
   * js subfolder with app.js - javascript used for visualization/dashboard
+
+- - -
+
+Interact with the chart and try finding if you are more exposed to health risks based on the state you are located!
+
 
